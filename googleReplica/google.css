@@ -1,0 +1,46 @@
+.html{
+    height:100%;
+    width: 100%;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.navbar{
+    margin-top: 0.5px;
+    padding-top: 2px;
+    align-content: flex-end; 
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+
+
+img{
+    display: inline-block;
+
+}
+
+li,a{
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    
+}
+.footerone,.footertwo{
+    background-color:#f2f2f2;
+    color: rgba(0,0,0,.59);
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #e4e4e4;
+
+}
+.main{
+    margin: auto;
+}
+
+
+
+
